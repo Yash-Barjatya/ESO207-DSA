@@ -1,0 +1,1 @@
+This repository consists my solution to the lab assignments of ESO207 (Data Structure and Algorithms) course offered at IIT Kanpur during 2022-2023 Semester II
